@@ -3,7 +3,7 @@
   "lora": "",
   "width": 512,
   "height": 768,
-  "steps": 23,
+  "steps": 22,
   "cfg_scale": 6.5,
   "sampler_index": "DPM++ 2M",
   "hires_fix": true,
@@ -11,11 +11,11 @@
   "hires_scale": 1.5,
   "hires_denoising_strength": 0.5,
   "refiner": false,
-  "batch_size": 20,
+  "batch_size": 1,
   "total_images": 1,
-  "seed": 960145643,
+  "seed": 84088659,
   "negative_prompt": "nsfw, nude, lowres, cartoon, text, logo, watermark, ugly, deformed, extra fingers, poorly drawn hands, distorted face, blurry, noisy, overexposed, underexposed, messy background",
-  "prompt": "photo-realistic portrait, moody low-key lighting, cinematic shadows, fashion noir atmosphere, dark girl aesthetic",
+  "prompt": "photo-realistic portrait, moody low-key lighting, cinematic shadows, fashion noir atmosphere, dark girl photography",
   "output_dir": "../dark",
   "category": "dark"
 }
