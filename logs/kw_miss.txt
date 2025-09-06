@@ -17,3 +17,5 @@ pages\uniform.html
 pages\single\index.html
 index.html
 link_list.html
+index.html
+link_list.html
