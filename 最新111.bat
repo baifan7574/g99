@@ -13,6 +13,31 @@ cd ..
 echo 🌐 正在执行网页生成 + SEO 插入...
 call run_all.bat
 
+REM ===== 2.5) 结构+文案差异化补丁（Slogan / 分类描述 / 专题页 / 相关推荐） =====
+cd /d "%~dp0"
+echo 🧩 正在执行站点差异化补丁（site_enhance_all.py）...
+
+REM 确认脚本存在
+if not exist "%~dp0site_enhance_all.py" (
+  echo ❌ 未发现 site_enhance_all.py ，跳过本步骤。
+  goto :AFTER_ENHANCE
+)
+
+REM 可选：存在配置则提示（不强制）
+if exist "%~dp0site_structure_config.json" echo 🔧 读取 site_structure_config.json...
+if exist "%~dp0slogans.txt" echo 🔤 读取 slogans.txt...
+if exist "%~dp0category_desc_templates.txt" echo 🧱 读取 category_desc_templates.txt...
+
+python site_enhance_all.py
+if errorlevel 1 (
+  echo ⚠️ 差异化补丁返回非 0（请检查输出），继续后续流程...
+) else (
+  echo ✅ 差异化补丁执行完成。
+)
+
+:AFTER_ENHANCE
+
+
 REM ===== 3) 插入广告（你的原流程） =====
 echo 💰 正在插入广告...
 python ads_apply_all.py
