@@ -15,7 +15,7 @@
   "total_images": 1,
   "seed": 598280688,
   "negative_prompt": "nsfw, nude, lowres, cartoon, text, logo, watermark, ugly, deformed, extra fingers, poorly drawn hands, distorted face, blurry, noisy, overexposed, underexposed, messy background",
-  "prompt": "photo-realistic portrait, pastel tones, soft window light, airy mood, gentle feminine aesthetic, soft girl aesthetic",
+  "prompt": "1girl, solo, single subject, one woman only\nphoto-realistic, ultra-detailed, cinematic portrait, 9:16 vertical, \nbeautiful young woman, elegant and attractive, natural beauty, \nunique facial features, subtle asymmetry allowed, realistic skin texture, \nhighly detailed eyes, sharp iris, glossy lips, natural nose, \nnatural expression, soft makeup, \nsoft studio light, rim light on hair, warm skin tone, \nprofessional photography style, depth of field, cinematic color grading, \nsharp focus, award-winning portrait photo, soft fashion shoes, soft girl makeup pictures, soft girl aesthetic names, photography softbox lights, high contrast monochrome, side swept bangs, leather jacket chic, neutral pastel tones, soft pink highlight, sensual vibe, elegant posture, tasteful composition",
   "output_dir": "../soft",
   "category": "soft"
 }
