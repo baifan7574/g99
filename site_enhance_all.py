@@ -128,7 +128,7 @@ def patch_home_slogan():
         m = re.search(r"<body[^>]*>", html, flags=re.I)
         if not m:
             print("[slogan] no safe insert point ->", idx); return
-    insert_at = (m.end() if m) else m.end()
+    insert_at = m.end()   # 上面已保证 m 存在
     block = f'\n<p class="nb-sub" {MARK["slogan"]}="1" style="opacity:.9;margin:6px 0 12px">{s}</p>\n'
     out = html[:insert_at] + block + html[insert_at:]
     safe_write(idx, out)
