@@ -1,0 +1,7 @@
+{
+  "collections": [
+    {"slug":"bedroom-girls","title":"Bedroom Girls","include":["bedroom","girl","bed"]},
+    {"slug":"window-light","title":"Window Light","include":["window","light","morning"]},
+    {"slug":"smiles","title":"Smiles","include":["smile","smiling","happy"]}
+  ]
+}
