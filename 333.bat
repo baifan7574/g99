@@ -1,9 +1,12 @@
 @echo off
 chcp 65001 >nul
 echo ============================================
-echo   🚀 NorthBeam Studio - Master Run (No Build)
+echo   🚀 NorthBeam Studio - Master Run (Auto Salt + BlackBox)
 echo ============================================
 echo.
+
+REM 获取当前目录名作为 salt
+for %%I in (.) do set CURDIR=%%~nxI
 
 REM 1) 生成图片（进入 generator 子目录运行，再回到根目录）
 pushd generator
@@ -20,6 +23,11 @@ echo.
 REM 3) 差异化增强
 python site_enhance_all.py
 echo [OK] 差异化增强完成
+echo.
+
+REM 3.5) 黑框补丁（自动用站点名作为 salt）
+python patch_nb_variants.py --site-root . --modules-per-page 2 --salt %CURDIR%
+echo [OK] 黑框补丁完成
 echo.
 
 REM 4) 广告注入
@@ -59,6 +67,6 @@ echo [OK] Sitemap Ping 完成
 echo.
 
 echo ============================================
-echo   ✅ 全流程执行完成（不包含找词）
+echo   ✅ 全流程执行完成（黑框自动差异化）
 echo ============================================
 pause
