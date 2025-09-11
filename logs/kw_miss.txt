@@ -34,3 +34,11 @@ tags\natural-look.html
 tags\smiles.html
 tags\soft-portraits.html
 tags\window-light.html
+index.html
+link_list.html
+tags\bedroom-girls.html
+tags\bedroom-girls_2.html
+tags\bedroom-girls_3.html
+tags\window-light.html
+index.html
+link_list.html

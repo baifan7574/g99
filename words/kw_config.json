@@ -1,0 +1,9 @@
+{
+  "per_category": {
+    "bedroom": { "keep": ["portrait","photo","lighting"], "ban": ["anime","cartoon","wallpaper"] },
+    "office":  { "keep": ["portrait","photo","indoor"],   "ban": ["meme","emoji","gif"] }
+  },
+  "max_per_category": 800,
+  "min_len": 6,
+  "min_words": 2
+}

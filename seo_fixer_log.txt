@@ -6,7 +6,7 @@
 [OK] D:\项目\g99\index.html
 [OK] D:\项目\g99\index_template.html
 [OK] D:\项目\g99\link_list.html
-[ERROR] D:\项目\g99\page.html: 'NoneType' object has no attribute 'append'
+[OK] D:\项目\g99\page.html
 [OK] D:\项目\g99\privacy.html
 [OK] D:\项目\g99\bedroom\20250816_180221_01.html
 [OK] D:\项目\g99\bedroom\20250816_180907_01.html
@@ -41,6 +41,9 @@
 [OK] D:\项目\g99\bedroom\20250906_224015_01.html
 [OK] D:\项目\g99\bedroom\20250906_235515_01.html
 [OK] D:\项目\g99\bedroom\20250907_005948_01.html
+[OK] D:\项目\g99\bedroom\20250910_231919_01.html
+[OK] D:\项目\g99\bedroom\20250911_090500_01.html
+[OK] D:\项目\g99\bedroom\20250911_105231_01.html
 [OK] D:\项目\g99\bedroom\page1.html
 [OK] D:\项目\g99\bedroom\page2.html
 [OK] D:\项目\g99\dark\20250816_180227_01.html
@@ -76,6 +79,9 @@
 [OK] D:\项目\g99\dark\20250906_224020_01.html
 [OK] D:\项目\g99\dark\20250906_235522_01.html
 [OK] D:\项目\g99\dark\20250907_005955_01.html
+[OK] D:\项目\g99\dark\20250910_231924_01.html
+[OK] D:\项目\g99\dark\20250911_090506_01.html
+[OK] D:\项目\g99\dark\20250911_105237_01.html
 [OK] D:\项目\g99\dark\page1.html
 [OK] D:\项目\g99\dark\page2.html
 [OK] D:\项目\g99\fitness\20250816_180233_01.html
@@ -111,6 +117,9 @@
 [OK] D:\项目\g99\fitness\20250906_224026_01.html
 [OK] D:\项目\g99\fitness\20250906_235528_01.html
 [OK] D:\项目\g99\fitness\20250907_010001_01.html
+[OK] D:\项目\g99\fitness\20250910_231930_01.html
+[OK] D:\项目\g99\fitness\20250911_090511_01.html
+[OK] D:\项目\g99\fitness\20250911_105242_01.html
 [OK] D:\项目\g99\fitness\page1.html
 [OK] D:\项目\g99\fitness\page2.html
 [OK] D:\项目\g99\luxury\20250816_180239_01.html
@@ -146,6 +155,9 @@
 [OK] D:\项目\g99\luxury\20250906_224032_01.html
 [OK] D:\项目\g99\luxury\20250906_235534_01.html
 [OK] D:\项目\g99\luxury\20250907_010007_01.html
+[OK] D:\项目\g99\luxury\20250910_231935_01.html
+[OK] D:\项目\g99\luxury\20250911_090517_01.html
+[OK] D:\项目\g99\luxury\20250911_105248_01.html
 [OK] D:\项目\g99\luxury\page1.html
 [OK] D:\项目\g99\luxury\page2.html
 [OK] D:\项目\g99\mirror\20250816_180245_01.html
@@ -166,7 +178,11 @@
 [OK] D:\项目\g99\mirror\20250906_224037_01.html
 [OK] D:\项目\g99\mirror\20250906_235539_01.html
 [OK] D:\项目\g99\mirror\20250907_010013_01.html
+[OK] D:\项目\g99\mirror\20250910_231941_01.html
+[OK] D:\项目\g99\mirror\20250911_090522_01.html
+[OK] D:\项目\g99\mirror\20250911_105253_01.html
 [OK] D:\项目\g99\mirror\page1.html
+[OK] D:\项目\g99\mirror\page2.html
 [OK] D:\项目\g99\office\20250816_180251_01.html
 [OK] D:\项目\g99\office\20250817_090141_01.html
 [OK] D:\项目\g99\office\20250817_090239_01.html
@@ -180,6 +196,9 @@
 [OK] D:\项目\g99\office\20250906_224043_01.html
 [OK] D:\项目\g99\office\20250906_235545_01.html
 [OK] D:\项目\g99\office\20250907_010018_01.html
+[OK] D:\项目\g99\office\20250910_231946_01.html
+[OK] D:\项目\g99\office\20250911_090527_01.html
+[OK] D:\项目\g99\office\20250911_105259_01.html
 [OK] D:\项目\g99\office\page1.html
 [OK] D:\项目\g99\pages\dark.html
 [OK] D:\项目\g99\pages\office.html
@@ -207,6 +226,9 @@
 [OK] D:\项目\g99\redroom\20250906_224048_01.html
 [OK] D:\项目\g99\redroom\20250906_235550_01.html
 [OK] D:\项目\g99\redroom\20250907_010024_01.html
+[OK] D:\项目\g99\redroom\20250910_231952_01.html
+[OK] D:\项目\g99\redroom\20250911_090533_01.html
+[OK] D:\项目\g99\redroom\20250911_105304_01.html
 [OK] D:\项目\g99\redroom\page1.html
 [OK] D:\项目\g99\shower\20250816_180303_01.html
 [OK] D:\项目\g99\shower\20250817_090152_01.html
@@ -221,6 +243,9 @@
 [OK] D:\项目\g99\shower\20250906_224053_01.html
 [OK] D:\项目\g99\shower\20250906_235556_01.html
 [OK] D:\项目\g99\shower\20250907_010029_01.html
+[OK] D:\项目\g99\shower\20250910_231957_01.html
+[OK] D:\项目\g99\shower\20250911_090538_01.html
+[OK] D:\项目\g99\shower\20250911_105309_01.html
 [OK] D:\项目\g99\shower\page1.html
 [OK] D:\项目\g99\soft\20250816_180309_01.html
 [OK] D:\项目\g99\soft\20250817_090159_01.html
@@ -235,6 +260,9 @@
 [OK] D:\项目\g99\soft\20250906_224059_01.html
 [OK] D:\项目\g99\soft\20250906_235601_01.html
 [OK] D:\项目\g99\soft\20250907_010035_01.html
+[OK] D:\项目\g99\soft\20250910_232003_01.html
+[OK] D:\项目\g99\soft\20250911_090544_01.html
+[OK] D:\项目\g99\soft\20250911_105315_01.html
 [OK] D:\项目\g99\soft\page1.html
 [OK] D:\项目\g99\tags\bedroom-girls.html
 [OK] D:\项目\g99\tags\bedroom-girls_2.html
@@ -243,7 +271,6 @@
 [OK] D:\项目\g99\tags\moody-tones.html
 [OK] D:\项目\g99\tags\morning-light.html
 [OK] D:\项目\g99\tags\natural-look.html
-[TEXT] Added paragraph to D:\项目\g99\tags\smiles.html
 [OK] D:\项目\g99\tags\smiles.html
 [OK] D:\项目\g99\tags\soft-portraits.html
 [OK] D:\项目\g99\tags\window-light.html
@@ -260,5 +287,8 @@
 [OK] D:\项目\g99\uniform\20250906_224105_01.html
 [OK] D:\项目\g99\uniform\20250906_235607_01.html
 [OK] D:\项目\g99\uniform\20250907_010040_01.html
+[OK] D:\项目\g99\uniform\20250910_232008_01.html
+[OK] D:\项目\g99\uniform\20250911_090549_01.html
+[OK] D:\项目\g99\uniform\20250911_105321_01.html
 [OK] D:\项目\g99\uniform\page1.html
 [PING] 提交 sitemap 到 Google: https://www.google.com/ping?sitemap=https://g99.nbfive.com/sitemap.xml

@@ -1,0 +1,7 @@
+/keywords/
+  global.txt              ← 通用长尾（每行一条）
+  bedroom.txt             ← bedroom 分类专用长尾（可选）
+  office.txt              ← office 分类专用长尾（可选）
+  ...
+inject_keywords_config.json   ← 可选配置（没有就用默认）
+inject_keywords.py            ← 下面这份脚本
