@@ -52,3 +52,5 @@ link_list.html
 index.html
 index_template.html
 link_list.html
+index.html
+link_list.html
