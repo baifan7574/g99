@@ -1,3 +1,4 @@
+[OK] D:\项目\g99\404.html
 [OK] D:\项目\g99\about.html
 [OK] D:\项目\g99\auto_homepage.html
 [OK] D:\项目\g99\contact.html
@@ -47,6 +48,7 @@
 [OK] D:\项目\g99\bedroom\20250911_154928_01.html
 [OK] D:\项目\g99\bedroom\20250911_155510_01.html
 [OK] D:\项目\g99\bedroom\20250911_183156_01.html
+[OK] D:\项目\g99\bedroom\20250915_093404_01.html
 [OK] D:\项目\g99\bedroom\page1.html
 [OK] D:\项目\g99\bedroom\page2.html
 [OK] D:\项目\g99\dark\20250816_180227_01.html
@@ -87,6 +89,7 @@
 [OK] D:\项目\g99\dark\20250911_105237_01.html
 [OK] D:\项目\g99\dark\20250911_155516_01.html
 [OK] D:\项目\g99\dark\20250911_183202_01.html
+[OK] D:\项目\g99\dark\20250915_093411_01.html
 [OK] D:\项目\g99\dark\page1.html
 [OK] D:\项目\g99\dark\page2.html
 [OK] D:\项目\g99\fitness\20250816_180233_01.html
@@ -127,6 +130,7 @@
 [OK] D:\项目\g99\fitness\20250911_105242_01.html
 [OK] D:\项目\g99\fitness\20250911_155521_01.html
 [OK] D:\项目\g99\fitness\20250911_183207_01.html
+[OK] D:\项目\g99\fitness\20250915_093417_01.html
 [OK] D:\项目\g99\fitness\page1.html
 [OK] D:\项目\g99\fitness\page2.html
 [OK] D:\项目\g99\luxury\20250816_180239_01.html
@@ -167,6 +171,7 @@
 [OK] D:\项目\g99\luxury\20250911_105248_01.html
 [OK] D:\项目\g99\luxury\20250911_155526_01.html
 [OK] D:\项目\g99\luxury\20250911_183212_01.html
+[OK] D:\项目\g99\luxury\20250915_093422_01.html
 [OK] D:\项目\g99\luxury\page1.html
 [OK] D:\项目\g99\luxury\page2.html
 [OK] D:\项目\g99\mirror\20250816_180245_01.html
@@ -192,6 +197,7 @@
 [OK] D:\项目\g99\mirror\20250911_105253_01.html
 [OK] D:\项目\g99\mirror\20250911_155532_01.html
 [OK] D:\项目\g99\mirror\20250911_183218_01.html
+[OK] D:\项目\g99\mirror\20250915_093428_01.html
 [OK] D:\项目\g99\mirror\page1.html
 [OK] D:\项目\g99\mirror\page2.html
 [OK] D:\项目\g99\office\20250816_180251_01.html
@@ -212,6 +218,7 @@
 [OK] D:\项目\g99\office\20250911_105259_01.html
 [OK] D:\项目\g99\office\20250911_155537_01.html
 [OK] D:\项目\g99\office\20250911_183224_01.html
+[OK] D:\项目\g99\office\20250915_093434_01.html
 [OK] D:\项目\g99\office\page1.html
 [OK] D:\项目\g99\pages\dark.html
 [OK] D:\项目\g99\pages\office.html
@@ -244,6 +251,7 @@
 [OK] D:\项目\g99\redroom\20250911_105304_01.html
 [OK] D:\项目\g99\redroom\20250911_155543_01.html
 [OK] D:\项目\g99\redroom\20250911_183229_01.html
+[OK] D:\项目\g99\redroom\20250915_093439_01.html
 [OK] D:\项目\g99\redroom\page1.html
 [OK] D:\项目\g99\shower\20250816_180303_01.html
 [OK] D:\项目\g99\shower\20250817_090152_01.html
@@ -263,6 +271,7 @@
 [OK] D:\项目\g99\shower\20250911_105309_01.html
 [OK] D:\项目\g99\shower\20250911_155548_01.html
 [OK] D:\项目\g99\shower\20250911_183240_01.html
+[OK] D:\项目\g99\shower\20250915_093445_01.html
 [OK] D:\项目\g99\shower\page1.html
 [OK] D:\项目\g99\soft\20250816_180309_01.html
 [OK] D:\项目\g99\soft\20250817_090159_01.html
@@ -282,6 +291,7 @@
 [OK] D:\项目\g99\soft\20250911_105315_01.html
 [OK] D:\项目\g99\soft\20250911_155553_01.html
 [OK] D:\项目\g99\soft\20250911_183250_01.html
+[OK] D:\项目\g99\soft\20250915_093451_01.html
 [OK] D:\项目\g99\soft\page1.html
 [OK] D:\项目\g99\tags\bedroom-girls.html
 [OK] D:\项目\g99\tags\bedroom-girls_2.html
@@ -311,5 +321,6 @@
 [OK] D:\项目\g99\uniform\20250911_105321_01.html
 [OK] D:\项目\g99\uniform\20250911_155559_01.html
 [OK] D:\项目\g99\uniform\20250911_183300_01.html
+[OK] D:\项目\g99\uniform\20250915_093456_01.html
 [OK] D:\项目\g99\uniform\page1.html
 [PING] 提交 sitemap 到 Google: https://www.google.com/ping?sitemap=https://g99.nbfive.com/sitemap.xml
